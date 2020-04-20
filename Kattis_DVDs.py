@@ -1,3 +1,6 @@
+# you can find the problem here https://open.kattis.com/problems/dvds
+# written by David Stålmarck 2020-03-19
+
 def solve(n, lst):
     shouldBeAt = 1
     for i in range(n):
